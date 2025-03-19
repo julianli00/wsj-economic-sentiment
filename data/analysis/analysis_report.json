@@ -1,0 +1,293 @@
+{
+    "agreement_rate": 83.0,
+    "total_rows": 200,
+    "agreement_count": 166,
+    "disagreement_count": 34,
+    "average_difference": 1.088235294117647,
+    "annotation_frequencies": {
+        "annotator_1": {
+            "1.0": 81,
+            "-1.0": 65,
+            "0.0": 54
+        },
+        "annotator_2": {
+            "1.0": 79,
+            "-1.0": 64,
+            "0.0": 57
+        }
+    },
+    "disagreements": [
+        {
+            "Title": "The U.S. Economy Depends More Than Ever on Rich People",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/consumers/us-economy-strength-rich-spending-2c34a571",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "-1",
+            "Difference": 2.0
+        },
+        {
+            "Title": "Hiring Slows but Remains Solid, With Economy Adding 143,000 Jobs",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/jobs-report-january-2025-unemployment-economy-1cb95d5b",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Fewer Americans Are Quitting Their Jobs",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/job-market-fewer-workers-quitting-economy-bef34675",
+            "Annotation_1": "-1: negative read",
+            "Annotation_2": "1",
+            "Difference": 2.0
+        },
+        {
+            "Title": "Trump Lashes Out at a Favorite Nemesis: The Federal Reserve",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/trump-lashes-out-at-a-favorite-nemesis-the-federal-reserve-fa31a212",
+            "Annotation_1": "0",
+            "Annotation_2": "-1: negative",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Trump Tries to Forge ‘Golden Age’ Economy of Self-Reliance and Defiance",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/politics/policy/trump-economic-vision-policy-plan-e570b32b",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Balance of Power Shifts Back Toward Bosses",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/balance-of-power-shifts-back-toward-bosses-a2861df1",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Dow Industrials Eke Out Gain; Bond Yields Grind Higher",
+            "Category": "U.S. Markets",
+            "URL": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-12-26-2024-37cbef86",
+            "Annotation_1": "0: neutral",
+            "Annotation_2": "1",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Stocks Rally on Hopes for More Rate Cuts",
+            "Category": "U.S. Markets",
+            "URL": "https://www.wsj.com/finance/stocks/stocks-rally-on-hopes-for-more-rate-cuts-fdefe364",
+            "Annotation_1": "0",
+            "Annotation_2": "1: positive",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Why Are Americans Paying So Much More for Healthcare Than They Used To?",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/health/healthcare/american-healthcare-spending-charts-explained-adaa0e23",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Strengthening Inflation Poses Challenge for Trump, Fed",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/cpi-report-inflation-november-interest-rate-d2520eaa",
+            "Annotation_1": "-1 negative read",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Powell Says Economic Strength Gives Fed Ability to Take Time on Rate Cuts",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/december-fed-rate-cut-powell-be4a617f",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "What Trump’s New Tariff Threats Mean for the U.S. Economy",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/trade/what-trumps-new-tariff-threats-mean-for-the-u-s-economy-f0e4e69a",
+            "Annotation_1": "0",
+            "Annotation_2": "-1: negative read",
+            "Difference": 1.0
+        },
+        {
+            "Title": "American Companies Are Stocking Up to Get Ahead of Trump’s China Tariffs",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/trade/american-companies-are-stocking-up-to-get-ahead-of-trumps-china-tariffs-c1ca4744",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "How Democrats Blew It on Inflation",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/inflation-joe-biden-mistakes-aa77b9cf",
+            "Annotation_1": "0: neutral read",
+            "Annotation_2": "-1: negative",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Powell Says Solid Economy Allows Fed to Consider Rate Cuts ‘Carefully’",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/powell-says-solid-economy-allows-fed-to-consider-rate-cuts-carefully-3055c890",
+            "Annotation_1": "0",
+            "Annotation_2": "-1: negative",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Inflation Stays Firm, but Not Enough to Derail December Fed Cut",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/cpi-report-inflation-october-interest-rate-9590a488",
+            "Annotation_1": "0",
+            "Annotation_2": "1: positive",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Fed Readies a Rate Cut and Faces These Four Questions",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/fed-readies-a-rate-cut-and-faces-these-four-questions-d32c9e20",
+            "Annotation_1": "0",
+            "Annotation_2": "1: positive",
+            "Difference": 1.0
+        },
+        {
+            "Title": "U.S. Added 12,000 Jobs in October as Storms Sidelined Workers",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/jobs-report-october-unemployment-economy-f771b682",
+            "Annotation_1": "0: neutral",
+            "Annotation_2": "-1",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Economists Warn of New Inflation Hazards After Election",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/trump-harris-election-inflation-0797554a",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Oil Prices Slide After Israeli Strike Avoids Iranian Energy Facilities",
+            "Category": "U.S. Markets",
+            "URL": "https://www.wsj.com/finance/commodities-futures/global-stocks-markets-dow-news-10-28-2024-8dfe4cd5",
+            "Annotation_1": "1: positive read",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "America’s Young Men Are Falling Even Further Behind",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7",
+            "Annotation_1": "-1",
+            "Annotation_2": "0: neutral",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Lower Interest Rates Don’t Guarantee a Soft Landing",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/lower-interest-rates-economy-soft-landing-fb3039d2",
+            "Annotation_1": "0: neutral",
+            "Annotation_2": "-1",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Home Sales Slipped in August Despite Falling Mortgage Rates",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/housing/u-s-home-sales-slipped-in-august-despite-falling-mortgage-rates-f44d3bdf",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Fed Enters Tricky Terrain: Rate Cuts in a Decent Economy",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/fed-interest-rate-cut-affect-economy-6f7f3335",
+            "Annotation_1": "0: neutral",
+            "Annotation_2": "1: positive",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Trump Proposal to Cut Tax Rate for U.S. Manufacturers Spurs Flurry of Questions",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/trump-proposal-to-cut-tax-rate-for-u-s-manufacturers-spurs-flurry-of-questions-24ac5cee",
+            "Annotation_1": "0",
+            "Annotation_2": "1: positive",
+            "Difference": 1.0
+        },
+        {
+            "Title": "How Immigration Remade the U.S. Labor Force",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee",
+            "Annotation_1": "1: positive read",
+            "Annotation_2": "0: neutral",
+            "Difference": 1.0
+        },
+        {
+            "Title": "For Two-Job Workers, There Aren’t Enough Hours in a Day to Stay Afloat",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/workers-multiple-jobs-lifestyle-economy-344c8f10",
+            "Annotation_1": "-1",
+            "Annotation_2": "0: neutral",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Behind Harris’s New Mantra: ‘The Opportunity Economy’",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/politics/elections/behind-harriss-new-mantra-the-opportunity-economy-ac179e74",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Price-Gouging Crusade Electrifies Democratic Rank and File",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/consumers/price-gouging-crusade-electrifies-democratic-rank-and-file-01255bfd",
+            "Annotation_1": "-1: negative",
+            "Annotation_2": "1: positive",
+            "Difference": 2.0
+        },
+        {
+            "Title": "Home Sales Up Slightly in July, Prices Still Near Record Highs",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/housing/real-estate-july-home-sales-prices-data-b9ba8b04",
+            "Annotation_1": "1",
+            "Annotation_2": "0: neutral",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Has the U.S. Economy Reached a Tipping Point?",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/consumers/has-the-u-s-economy-reached-a-tipping-point-d2eb9d33",
+            "Annotation_1": "0: neutral",
+            "Annotation_2": "-1",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Case for September Rate Cut Builds After Slower Jobs Data",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/jobs/jobs-report-june-unemployment-economy-68275d9e",
+            "Annotation_1": "1: positive",
+            "Annotation_2": "0",
+            "Difference": 1.0
+        },
+        {
+            "Title": "Fed Officials Signaled No Hurry to Cut Rates",
+            "Category": "U.S. Economy",
+            "URL": "https://www.wsj.com/economy/central-banking/federal-reserve-minutes-june-2024-inflation-interest-rates-a3ae8bd2",
+            "Annotation_1": "0",
+            "Annotation_2": "-1: negative",
+            "Difference": 1.0
+        },
+        {
+            "Title": "S&P 500, Nasdaq Hit Fresh Records in Holiday-Shortened Session",
+            "Category": "U.S. Markets",
+            "URL": "https://www.wsj.com/finance/stocks/s-p-500-nasdaq-hit-fresh-records-in-holiday-shortened-session-02e17c39",
+            "Annotation_1": "1",
+            "Annotation_2": "0: neutral",
+            "Difference": 1.0
+        }
+    ]
+}
