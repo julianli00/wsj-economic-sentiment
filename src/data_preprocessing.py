@@ -34,7 +34,7 @@ def assign_annotators(df):
         # Sort people by their assignment count, with special weight for Yiwen Chen
         sorted_people = sorted(
             ANNOTATORS,
-            key=lambda person: assignments_count[person] if person != 'Yiwen Chen' else assignments_count[person] / 1.7
+            key=lambda person: assignments_count[person] if person != 'X1' else assignments_count[person] / 1.7
         )
         
         # Assign to the two people with least assignments
