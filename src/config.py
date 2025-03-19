@@ -17,10 +17,10 @@ ANALYSIS_REPORT_FILE = os.path.join(ANALYSIS_DIR, "analysis_report.json")
 
 # Annotator configuration
 ANNOTATORS = [
-    "Yiyang Du",
-    "Miaolin Zhang",
-    "Yiwen Chen",
-    "Yuchen Li"
+    "X1",
+    "X2",
+    "X3",
+    "X4"
 ]
 
 # Random seed for reproducibility
