@@ -1,0 +1,16 @@
+name: wsjenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas=2.0.3
+  - numpy=1.24.4
+  - requests
+  - beautifulsoup4
+  - matplotlib=3.7.5
+  - plotly=6.0.1
+  - streamlit=1.40.1
+  - pip
+  - pip:
+    - tqdm
