@@ -48,36 +48,6 @@ wsj-corpus-annotation/
 ├── environment.yml        # Conda environment specification
 └── requirements.txt       # Python package dependencies
 ```
-
-## Project Documentation
-
-### Sprint 1: Project Setup
-- [Proof of concept](docs/proof_of_concept.md)
-- [Proposal](docs/proposal.md)
-- [Teamwork contract](docs/teamwork_contract.md)
-  
-### Sprint 2: Data Collection
-- [Corpus collection code](src/scraper.py)
-- [Corpus + explanation](data/raw/wsj_US_econ_articles_2024-01-01_2025-02-26.csv)
-- [Corpus analysis](docs/corpus_analysis.md)
-- [Annotation plan](docs/annotation_plan.md)
-- [Annotation schema](docs/wsj_sentiment_annotation_guidelines.md)
-
-### Sprint 3: Annotation Process
-- [Annotation process details](docs/annotation_process.md)
-- [Annotation shared doc](https://docs.google.com/spreadsheets/d/12IgM8detMV0EI2Ba9VFObUoZJfmYE-UMlbuJmKhkY3U/edit?usp=sharing)
-- [Data for annotation](data/processed/ready_for_annotation.csv)
-- [Annotated data](data/annotated/annotated_data.csv)
-- [Interannotator agreement study](docs/interannotator_agreement_study.md)
-- [Interface plan](docs/interface_plan.md)
-
-### Sprint 4: Web Interface
-- [Web Application](https://huggingface.co/spaces/alexdu271/streamlit_web_annotation_data)
-- [Web Documentation](docs/web_code_documentation.md)
-
-## Sprint 5: Docker:
-- [Docker File](docker/)
-
 ## Features
 
 - Interactive data visualization
